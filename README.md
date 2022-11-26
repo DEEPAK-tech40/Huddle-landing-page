@@ -28,8 +28,8 @@ Mobile-view:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live site]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/huddlelandingpage-Uy7POnY99P)
+- Live Site URL: [Live site](https://deepaktech40-huddle-landing-page.netlify.app/)
 
 ## My process
 
