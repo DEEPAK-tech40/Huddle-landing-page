@@ -4,6 +4,9 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ## Overview
 
+![desktop-preview](https://user-images.githubusercontent.com/94350356/204099189-77a1ba82-8054-46b5-9f6b-3c54fd6de82a.jpg)
+
+
 ### The challenge
 
 Users should be able to:
@@ -12,6 +15,16 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
+
+Desktop-view:
+
+![active-states](https://user-images.githubusercontent.com/94350356/204099201-73700b90-0702-435d-8606-049dff7c4d73.jpg)
+
+
+Mobile-view:
+
+![mobile-design](https://user-images.githubusercontent.com/94350356/204099215-4a62ced4-ef21-4b6d-8c89-c537dcb39805.jpg)
+
 
 ### Links
 
